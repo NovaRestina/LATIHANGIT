@@ -14,7 +14,7 @@ Download GIT di web resminya (git-scm.com)
  
  2. Login GitHub
 Masuk ke http://github.com untuk membuat server repository
-
+![ss3 png](https://user-images.githubusercontent.com/115637858/196014052-f3a4612d-0290-4ad6-a813-6bd5a5c5cb58.png)
 buat akun di github
 klik New Repository
 isi nama repositorynya
