@@ -12,3 +12,39 @@ Download GIT di web resminya (git-scm.com)
  $ git config --global user.email "nova123@gmail.com"
  ![ss2 png](https://user-images.githubusercontent.com/115637858/196013921-a43080aa-f09d-473c-820b-2e5b967fb94c.png)
  
+ 2. Login GitHub
+Masuk ke http://github.com untuk membuat server repository
+
+buat akun di github
+klik New Repository
+isi nama repositorynya
+lalu klik tombol creat repository
+
+    3. Buat Folder
+Buat New folder dilocaldisk kalian
+
+tulis Labs2, didalamnya LATIHAN2
+untuk membuat dan membuka folder dengan menggunakan perintah tersebut
+$ pwd
+$ cd /d/Labs2/
+
+buka halaman akun anda di github untuk menyalin link
+
+kemudian kembali dihalaman gitbash
+$ git clone https://github/NovaRestina/LATATIHANGIT.git
+kemudian buka folder pilih README buka dengan Visual Studio code
+
+$ cd LATIHAN2/
+$ git add LAT2_tag_dasar.html di folder tersebut bisa dibuka dengan firefox
+
+$ git status dan muncul tulisan new file: LAT2_tag_dasar.html
+$ git commit -m "menambahkan file LAT2_tag_dasar.html supaya muncul dihalaman web github akun kita
+
+
+$ git push -u origin main 
+kemudian muncul github di browser untuk mengirim file repository
+setelah itu menghubungkan server github untuk login akun anda
+pilih Authorize
+muncul Authention succeeded
+
+ 
