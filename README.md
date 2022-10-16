@@ -51,9 +51,10 @@ $ git clone https://github/NovaRestina/LATATIHANGIT.git
 kemudian buka folder pilih README buka dengan Visual Studio code
 ![ss7 png](https://user-images.githubusercontent.com/115637858/196014555-e243b985-b18b-4ae4-89c8-fc52ea1d0155.png)
 
-$ cd LATIHAN2/
+$ cd LATIHANGIT/
 
-$ git add LAT2_tag_dasar.html di folder tersebut bisa dibuka dengan firefox
+$ git add git_tag_dasar.html di folder tersebut bisa dibuka dengan firefox
+
 
 $ git status dan muncul tulisan new file: LAT2_tag_dasar.html
 
