@@ -72,4 +72,6 @@ pilih Authorize
 
 muncul Authention succeeded
 
+![ss11 png](https://user-images.githubusercontent.com/115637858/196014958-c8b2ed96-da0a-49b1-8212-8f50af4bdf0a.png)
+
  
