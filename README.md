@@ -10,4 +10,5 @@ Download GIT di web resminya (git-scm.com)
  Masukkan username yang diperintah
  $ git config --global user.name "NOVA RESTINA MAHARANI"
  $ git config --global user.email "nova123@gmail.com"
+ ![ss2 png](https://user-images.githubusercontent.com/115637858/196013921-a43080aa-f09d-473c-820b-2e5b967fb94c.png)
  
