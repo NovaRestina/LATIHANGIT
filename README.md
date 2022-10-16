@@ -54,7 +54,7 @@ kemudian buka folder pilih README buka dengan Visual Studio code
 $ cd LATIHANGIT/
 
 $ git add git_tag_dasar.html di folder tersebut bisa dibuka dengan firefox
-
+![ss8 png](https://user-images.githubusercontent.com/115637858/196014688-9aa09f71-d34e-4616-872c-c8b16383f507.png)
 
 $ git status dan muncul tulisan new file: LAT2_tag_dasar.html
 
