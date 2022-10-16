@@ -51,6 +51,8 @@ $ git clone https://github/NovaRestina/LATATIHANGIT.git
 kemudian buka folder pilih README buka dengan Visual Studio code
 ![ss7 png](https://user-images.githubusercontent.com/115637858/196014555-e243b985-b18b-4ae4-89c8-fc52ea1d0155.png)
 
+![ss12 png](https://user-images.githubusercontent.com/115637858/196014997-f15cfcee-8cf9-4012-8e2f-edf6c00de413.png)
+
 $ cd LATIHANGIT/
 
 $ git add git_tag_dasar.html di folder tersebut bisa dibuka dengan firefox
