@@ -42,6 +42,7 @@ $ cd /d/Labs2/
 ![ss5 png](https://user-images.githubusercontent.com/115637858/196014364-b743fe80-1377-4cc5-b466-c27464fd9d86.png)
 
 buka halaman akun anda di github untuk menyalin link
+![ss6 png](https://user-images.githubusercontent.com/115637858/196014483-b7e4aadc-6076-4b3d-845c-2ac20c35a0dd.png)
 
 kemudian kembali dihalaman gitbash
 
