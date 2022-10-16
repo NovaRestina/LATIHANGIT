@@ -29,8 +29,9 @@ lalu klik tombol creat repository
     3. Buat Folder
     
 Buat New folder dilocaldisk kalian
+![ss4 png](https://user-images.githubusercontent.com/115637858/196014225-cff763f1-04bb-4169-b1a3-a39a7487f9ff.png
 
-tulis Labs2, didalamnya LATIHAN2
+tulis LATGIT, didalamnya LATIHANGIT
 
 untuk membuat dan membuka folder dengan menggunakan perintah tersebut
 
