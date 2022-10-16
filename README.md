@@ -49,7 +49,7 @@ kemudian kembali dihalaman gitbash
 $ git clone https://github/NovaRestina/LATATIHANGIT.git
 
 kemudian buka folder pilih README buka dengan Visual Studio code
-
+![ss7 png](https://user-images.githubusercontent.com/115637858/196014555-e243b985-b18b-4ae4-89c8-fc52ea1d0155.png)
 
 $ cd LATIHAN2/
 
