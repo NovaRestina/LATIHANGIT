@@ -62,7 +62,7 @@ $ git status dan muncul tulisan new file: git_tag_dasar.html
 $ git commit -m "menambahkan file git_tag_dasar.html supaya muncul dihalaman web github akun kita
 
 $ git push -u origin main 
-
+![ss10 png](https://user-images.githubusercontent.com/115637858/196014888-b1ffa4e1-ad0d-4ed1-b640-09d09ce49572.png)
 
 kemudian muncul github di browser untuk mengirim file repository
 
