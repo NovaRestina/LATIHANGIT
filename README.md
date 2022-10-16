@@ -57,12 +57,12 @@ $ git add git_tag_dasar.html di folder tersebut bisa dibuka dengan firefox
 ![ss8 png](https://user-images.githubusercontent.com/115637858/196014688-9aa09f71-d34e-4616-872c-c8b16383f507.png)
 ![ss9 png](https://user-images.githubusercontent.com/115637858/196014785-445951a4-0d82-41ba-bca6-18ade8a1992a.png)
 
-$ git status dan muncul tulisan new file: LAT2_tag_dasar.html
+$ git status dan muncul tulisan new file: git_tag_dasar.html
 
-$ git commit -m "menambahkan file LAT2_tag_dasar.html supaya muncul dihalaman web github akun kita
-
+$ git commit -m "menambahkan file git_tag_dasar.html supaya muncul dihalaman web github akun kita
 
 $ git push -u origin main 
+
 
 kemudian muncul github di browser untuk mengirim file repository
 
