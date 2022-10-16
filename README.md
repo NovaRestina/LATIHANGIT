@@ -39,7 +39,7 @@ untuk membuat dan membuka folder dengan menggunakan perintah tersebut
 $ pwd
 
 $ cd /d/Labs2/
-
+![ss5 png](https://user-images.githubusercontent.com/115637858/196014364-b743fe80-1377-4cc5-b466-c27464fd9d86.png)
 
 buka halaman akun anda di github untuk menyalin link
 
